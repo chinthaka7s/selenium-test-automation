@@ -1,0 +1,14 @@
+{
+  "validlogin": {
+    "username": "admin",
+    "password": "@Admin123o"
+  },
+  "invalidpassword":{
+  "username": "admin",
+  "password": "abcd123"
+  },
+"blankcredentials":{
+  "username": "",
+  "password": ""
+}
+}
